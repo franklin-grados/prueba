@@ -16,7 +16,7 @@
     <p>trata de ramas o branches de git</p>
 
     <div>
-        <p>nuevo div</p>
+        <h1>este h1 es parte del cuerpo</h1>
     </div>
 </body>
 </html>
