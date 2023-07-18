@@ -21,6 +21,5 @@
     <div>
         <p>nuevo div</p>
     </div>
->>>>>>> cuerpo
 </body>
 </html>
