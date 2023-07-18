@@ -15,9 +15,6 @@
     <p>Soy fran Grados mi edad 25</p>
     <p>vivo en tingo maria</p>
 
-    <h1 class="title">este es un titulo interesante</h1>
-    <p>trata de ramas o branches de git</p>
-
     <div>
         <p>nuevo div</p>
     </div>
