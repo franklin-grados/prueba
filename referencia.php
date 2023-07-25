@@ -7,15 +7,11 @@
 </head>
 <body>
 
-ÑANO BOCHIIII
-
 <div>
-    efefe
+    esta es el header 
+    fran grados 
 </div>
 
-<div>
-    RAMA CHRISTIAN
-</div>
 
 <div class="div-4">
     efefe
